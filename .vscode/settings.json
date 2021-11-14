@@ -2,9 +2,9 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#006600",
-    "titleBar.inactiveForeground": "#006600CC",
-    "titleBar.activeBackground": "#ffffff",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveForeground": "#ffffffCC",
+    "titleBar.activeBackground": "#006600",
     "titleBar.inactiveBackground": "#555555",
     "tab.activeBackground": "#ffcb8833",
     "list.activeSelectionBackground": "#ffcb8833",
