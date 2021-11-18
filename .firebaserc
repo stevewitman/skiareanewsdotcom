@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "skiareanewsdotcom": {
+      "hosting": {
+        "skiareanewsdotcom": [
+          "skiareanewsdotcom"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "skiareanewsdotcom"
+  }
+}
